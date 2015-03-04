@@ -10,5 +10,6 @@ things have changed.
 
 Please see the [top-level
 README](https://github.com/DougBurke/astro-haskell/blob/master/README.md)
-for more information, including links to the HTML versions.
+for more information, including links to the HTML and "finished"
+(i.e. the output cells are included) versions.
 

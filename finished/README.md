@@ -1,4 +1,4 @@
-s
+
 # Astronomy and Haskell
 
 These are finished [IHaskell
@@ -11,5 +11,6 @@ to view them.
 
 Please see the [top-level
 README](https://github.com/DougBurke/astro-haskell/blob/master/README.md)
-for more information, including links to the HTML versions.
+for more information, including links to the HTML and "raw/clean"
+versions.
 
