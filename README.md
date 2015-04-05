@@ -17,6 +17,17 @@ no warranty.
 
 ## Posts (reverse chronological order)
 
+  4. [a FITSfull of ARF](http://htmlpreview.github.io/?https://raw.githubusercontent.com/DougBurke/astro-haskell/master/html/a%20FITSfull%20of%20ARF.html)
+
+     Notebooks: [read using nbviewer](http://nbviewer.ipython.org/github/DougBurke/astro-haskell/blob/master/finished/a%20FITSfull%20of%20ARF.ipynb); [on GitHub](https://github.com/DougBurke/astro-haskell/blob/master/notebooks/a%20FITSfull%20of%20ARF.ipynb)
+
+     Published: 5 April 2015
+
+     Synopsis: What does it take to parse data from a common Astronomy file format (`FITS`), and what
+     does an ARF look like? There's no fun with dimensional quantities here (that's left for an
+     unspecified notebook in the future), but there's plenty of mathematical abstraction, and
+     even some envy at optical Astronomers and their large mirrors.
+
   3. [K corrections with a dimensional twist](http://htmlpreview.github.io/?https://raw.githubusercontent.com/DougBurke/astro-haskell/master/html/k%20corrections%20with%20a%20dimensional%20twist.html)
 
      Notebooks: [read using nbviewer](http://nbviewer.ipython.org/github/DougBurke/astro-haskell/blob/master/finished/k%20corrections%20with%20a%20dimensional%20twist.ipynb); [on GitHub](https://github.com/DougBurke/astro-haskell/blob/master/notebooks/k%20corrections%20with%20a%20dimensional%20twist.ipynb)
