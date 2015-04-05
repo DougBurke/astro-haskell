@@ -6,7 +6,7 @@ Author:
  - [Doug Burke](https://plus.google.com/+DougBurke)
  - [@doug_burke](https://twitter.com/doug_burke)
 
-A collection (well, at present three) of
+A collection of
 [IHaskell notebooks](http://gibiansky.github.io/IHaskell/)
 showing examples of using 
 [Haskell](https://www.haskell.org/)
